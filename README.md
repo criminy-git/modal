@@ -1,3 +1,5 @@
+Practising implementing a modal 
+
 
 [Click here to see finished project](https://j-pohl.github.io/modal/)
 
